@@ -1,0 +1,42 @@
+/*section="Navbar" */
+
+.navbar{
+    background-color: white;
+}
+.nav-link{
+    font-family: 'Karla', sans-serif;
+    color:hsl(273, 4%, 51%);
+}
+.btn{
+    font-size: medium;
+    border-radius: 0;
+}
+
+/*section id="Heroes"*/
+
+.back-color{
+  background-color:   hsl(256, 26%, 20%);
+}
+
+/*section id="Features" */
+
+.context h1{
+ font-family: 'DM Serif Display', serif;
+}
+
+.feature  h2{
+    font-family: 'DM Serif Display', serif;
+    font-weight: bold;
+}
+
+.feature  p{
+    font-family: 'Karla', sans-serif;
+    color:hsl(273, 4%, 51%)
+}
+
+/*grid */
+.container-grid{
+    background-color:   hsl(256, 26%, 20%);
+    color: white;
+    width: 81%;
+}
